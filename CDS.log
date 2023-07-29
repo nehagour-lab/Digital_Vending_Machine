@@ -1,0 +1,758 @@
+\# Program start time:     UTC 2022.12.01 04:29:57.889
+\# Local time: PST (UTC-08:00) 2022.11.30 20:29:57.889
+\o Program:		@(#)$CDS: virtuoso version 6.1.8-64b 06/29/2021 19:20 (sjfhw316) $
+\o Hierarchy:		/opt/cadence/IC618/tools.lnx86/dfII/
+\o Sub version:		sub-version  IC6.1.8-64b.500.19  (64-bit addresses)
+\# Command line:	/opt/cadence/IC618/tools.lnx86/dfII/bin/64bit/virtuoso
+\# Host name (type):	ecs-pa-hawking.ecs.csus.edu (x86_64)
+\# Operating system:	Linux 3.10.0-1160.71.1.el7.x86_64 #1 SMP Wed Jun 15 08:55:08 UTC 2022
+\# Linux /etc/issue:	\S
+\# Linux /etc/issue:	Kernel \r on an \m
+\# X display name (WxH):	localhost:13.0 (1280x720)
+\# Available geometry:			TL(0:0) BR(1279:719)
+\# X server:			Moba/X
+\# Depth of Visual (Root):	24 (24)
+\# Number of Planes Used:	24
+\# X version:		11.0 (vendor release 12004000)
+\# X resource pool:	base 0x280000, mask 0x7ffff (524287), shift 0
+\# 			current id 0x0, current max 0x7fffa (524282)
+\# *WARNING* The size of the ID pool for X resources is 524282 which is smaller than expected.
+\# *WARNING* Reconfigure your Xserver to increase the size to 2000000 or more for prolonged use.
+\# Max data seg size:	     unlimited
+\# Max process size:	     unlimited
+\# Initial sbrk value:	        566 MB
+\# Available memory:	     11,783 MB
+\# System memory:	     19,477 MB
+\# Maximum memory size:	     19,124 MB
+\# Max mem available:	     11,996 MB
+\# Initial memory used:	        213 MB
+\#        process size:	      1,669 MB
+\# Thread usage limits (effective/default):	maxthreads 4096/4096 maxload 8.00/8.00
+\# Qt version:		5.9.1
+\# Window Manager:	other
+\# User Name:		nehagour
+\o Working Directory:	ecs-pa-hawking.ecs.csus.edu:/home/student/nehagour/library
+\# Process Id:		17614
+\o 
+\o COPYRIGHT (C) 1992-2021  CADENCE DESIGN SYSTEMS INC.  ALL RIGHTS RESERVED.
+\o           (C) 1992-2021  UNIX SYSTEMS Laboratories INC.,
+\o                          Reproduced with permission.
+\o 
+\o This Cadence Design Systems program and online documentation are
+\o proprietary/confidential information and may be disclosed/used only
+\o as authorized in a license agreement controlling such use and disclosure.
+\o 
+\o           RESTRICTED RIGHTS NOTICE (SHORT FORM)
+\o Use/reproduction/disclosure is subject to restriction
+\o set forth at FAR 1252.227-19 or its equivalent.
+\o Loading geView.cxt 
+\o Loading menuBuilder.cxt 
+\o Loading schView.cxt 
+\o Loading selectSv.cxt 
+\o Loading wireEdit.cxt 
+\o Loading pte2.cxt 
+\# Memory report: using         346 MB, process size 1,811 MB at UTC 2022.12.01 04:29:59.047
+\o Loading xlUI.cxt 
+\o Loading auCore.cxt 
+\o Loading vhdl.cxt 
+\o Loading seismic.cxt 
+\o Loading ci.cxt 
+\o Loading ams.cxt 
+\o Loading adexlDM.cxt 
+\o Loading cpf.cxt 
+\o Loading cli.cxt 
+\o Loading lp.cxt 
+\# [20:29:57.310217] Configured Lic search path (20.02-p002): 25280@ecs-pa-flex1.saclink.csus.edu
+\o Virtuoso Framework License (111) was checked out successfully. Total checkout time was 0.02s.
+\p > 
+\a _treeSetOpcGUI(t)
+\# [20:29:59.355192] Periodic Lic check successful
+\# [20:29:59.355200] Feature usage summary:
+\# [20:29:59.355201] 111
+\r t
+\# Available memory:         11,663 MB at UTC 2022.12.01 04:30:08.902
+\# Memory report: Maximum memory size now 12,063 MB at UTC 2022.12.01 04:30:08.902
+\# Thread usage report: 13 active threads, active load 1.40 at UTC 2022.12.01 04:30:08.902
+\a ddsOpenLibManager()
+\r t
+\i ddsServOpen("234_Project_2" "d-ff" "layout" "edit" nil)
+\o Loading le.cxt 
+\o Loading lx.cxt 
+\o Loading lce.cxt 
+\o Loading rte.cxt 
+\o Loading sipLayout.cxt 
+\# Displaying modal dbox "_icLicLicenseQuestionDBox", title "Next License"
+\p > 
+\a hiDBoxUser(_icLicLicenseQuestionDBox nil 1)
+\r t
+\o Loading cph.cxt 
+\# Current Window: window(2)
+\o Loading gpdk045/libInit.il ...
+\o 	Loading gpdk045/loadCxt.ile ... done!
+\o 	Loading context 'gpdk045' from library 'gpdk045' ... done!
+\o 	Loading context 'pdkUtils' from library 'gpdk045' ... done!
+\o 	Loading gpdk045/gpdk045_customFilter.il ... done!
+\o 	Loading gpdk045/libInitCustomExit.il ... 
+\o 	Loading Environment Settings ...
+\o 	Loading Model Management File ...
+\o Loading oasis.cxt 
+\o Loading analog.cxt 
+\o Loading asimenv.cxt 
+\o Loading spectrei.cxt 
+\o Loading dal.cxt 
+\o Loading awv.cxt 
+\o Loading socket.cxt 
+\o Loading par.cxt 
+\o Loading alvs.cxt 
+\o Loading caa.cxt 
+\o Loading amps.cxt 
+\o Loading adexlCore.cxt 
+\# Memory report: using         515 MB, process size 2,095 MB at UTC 2022.12.01 04:32:00.044
+\o Loading adexl.cxt 
+\o Loading vdsil.cxt 
+\o Loading te.cxt 
+\o Loading schHDL.cxt 
+\o Loading devCheck.cxt 
+\o Loading relXpert.cxt 
+\o Loading hspiceD.cxt 
+\o Loading spectreinl.cxt 
+\o Loading UltraSim.cxt 
+\o Loading msgHandler.cxt 
+\o Loading AMSOSS.cxt 
+\o Loading AMS.cxt 
+\o 	Loading gpdk045/gpdk045_PDKRegistrations.il ... done!
+\o 
+\o   *************************************************************           
+\o   *              Cadence Design Systems, Inc.                 *           
+\o   *                                                           *           
+\o   *                    Generic 45nm PDK                       *           
+\o   *                        (gpdk045)                          *           
+\o   *                                                           *           
+\o   *************************************************************           
+\o 	
+\o 
+\o 	VERSION: 6.0 (09-September-2019)
+\o 
+\o done!
+\o Loaded gpdk045/libInit.il successfully!
+\o Loading drdEdit.cxt 
+\o Loading soi.cxt 
+\# Current Window: window(3)
+\o Loading schematic.cxt 
+\o Loading ddui.cxt 
+\o Loading vb.cxt 
+\o Loading cfde.cxt 
+\o Loading nt.cxt 
+\o Loading oi.cxt 
+\o Loading see.cxt 
+\o Loading treeAssistant.cxt 
+\o Loading asst.cxt 
+\a _ciAssistantReplay_newAssistantByName(dwindow('ciProspector1) "Rapid Analog Prototype")
+\r t
+\o Loading simui.cxt 
+\o Loading hsm.cxt 
+\o Loading ap.cxt 
+\# Current Window: window(2) Window cellview: 234_Project_2:d-ff:layout  Application: Virtuoso XL
+\o INFO (BND-1003): Binder initialized for layout cellview '234_Project_2/d-ff/layout' and source cellview '234_Project_2/d-ff/schematic':
+\o 
+\o                  bound
+\o   terminals          5
+\o   nets              16
+\o   instances         11
+\o 
+\o INFO (BND-1004): Layout instances and terminals match source.
+\o Loading vfoCmd.cxt 
+\o Loading wsp.cxt 
+\o Load shared object file /opt/cadence/ASSURA41/tools.lnx86/assura/lib/64bit/libavview.so
+\o Version:  @(#)$CDS: libavview.so version av4.1:Production:dfII6.1.8-64b:IC6.1.8-64b.500.17 03/26/21 10:28 (sjfhw780) $
+\o Version:  Assura:"6.1.8", layout editor:"6.1.8"
+\# Memory report: using         618 MB, process size 2,211 MB at UTC 2022.12.01 04:32:02.252
+\o The QRC UI context file was successfully loaded
+\o Loading sna.cxt
+\w *WARNING* hiEnableMenuItem: menu item not in the menu.
+\w *WARNING* hiDisableMenuItem: Can't find qrcRAnalysis in menu qrcMenu.
+\o INFO: Adding Quantus SND Analysis into Assura Menu
+\o Loading ia.cxt 
+\o Loading ev20.cxt 
+\o Loading vfp.cxt 
+\o Loading mpt.cxt 
+\o Loading smd.cxt 
+\o Loading ncl.cxt 
+\o Loading atd.cxt 
+\o Loading pe.cxt 
+\a _treeWidgetTreeWidgetItemClicked(_iaConfForm->_iaCfgTree "Generate Trunks" "0" "Unchecked")
+\r t
+\a _treeWidgetTreeWidgetItemClicked(_iaConfForm->_iaCfgTree "Generate Trunks" "0" "Unchecked")
+\r t
+\o Loading apInfra.cxt 
+\o Loading vca.cxt 
+\a when(dwindow('oiAssistant1) hiMapWindow(dwindow('oiAssistant1)))
+\r t
+\a when(dwindow('treeAssistant1) hiMapWindow(dwindow('treeAssistant1)))
+\r t
+\a when(dwindow('ptePaletteAssistant1) hiMapWindow(dwindow('ptePaletteAssistant1)))
+\r t
+\# Current Window: window(3) Window cellview: 234_Project_2:d-ff:schematic  Application: Schematics XL
+\a hiResizeWindow(swindow(1) list(0:40 1280:697))
+\r t
+\a hiSetCurrentWindow(window(2))
+\# Current Window: window(2) Window cellview: 234_Project_2:d-ff:layout  Application: Virtuoso XL
+\r t
+\a geScroll(nil "w"    nil)
+\r t
+\a leHiSubmitPlot()
+\o Loading /home/student/nehagour/.cdsplotinit
+\o Loading layers.cxt 
+\p > 
+\a hiiSetCurrentForm('lePlotSubmitForm)
+\r t
+\a lePlotSubmitForm->plotPlotSelection->header->value =  nil
+\r nil
+\a leiDisplayPlotOptionsForm()
+\p > 
+\a hiiSetCurrentForm('lePlotOptionsForm)
+\r t
+\a lePlotOptionsForm->plotOrientationRadio->value="Portrait"
+\r "Portrait"
+\a lePlotOptionsForm->plotFitToggle->fit->value =  t
+\r t
+\a lePlotOptionsForm->plotCenter->center->value =  nil
+\r nil
+\a lePlotOptionsForm->plotCenter->center->value =  t
+\r t
+\a lePlotOptionsForm->plotOrientationRadio->value="Landscape"
+\r "Landscape"
+\a lePlotOptionsForm->plotToFileToggle->send->value =  t
+\r t
+\a hiiSetCurrentForm('lePlotSubmitForm)
+\r t
+\a lePlotOptionsForm->plotToFileStr->value=" /home/student/nehagour/library/"
+\r " /home/student/nehagour/library/"
+\a hiiSetCurrentForm('lePlotOptionsForm)
+\r t
+\a hiiSetCurrentForm('lePlotSubmitForm)
+\r t
+\a hiiSetCurrentForm('lePlotOptionsForm)
+\r t
+\a lePlotOptionsForm->plotToFileStr->value=" /home/student/nehagour/library/Project_2_print/dff_layout.ps"
+\r " /home/student/nehagour/library/Project_2_print/dff_layout.ps"
+\a lePlotOptionsForm->plotMailLogToggle->mail->value =  nil
+\r nil
+\a hiFormDone(lePlotOptionsForm)
+\r t
+\r t
+\a hiiSetCurrentForm('lePlotSubmitForm)
+\r t
+\a hiFormDone(lePlotSubmitForm)
+\o (LE-101019): Start Plotting ...
+\o plotServ 7.02, build a, CAT35, static
+\o (LE-101018):   "234_Project_2 d-ff layout" to plotfile " /home/student/nehagour/library/Project_2_print/dff_layout.ps"
+\w *WARNING* Creation of output file ( /home/student/nehagour/library/Project_2_print/dff_layout.ps) failed
+\o (LE-101020): ... End Plotting
+\o (LE-101017): Successfully plotted 1 cellview(s)
+\r t
+\r t
+\a leHiSubmitPlot()
+\o Loading /home/student/nehagour/.cdsplotinit
+\p > 
+\a leiDisplayPlotOptionsForm()
+\p > 
+\a hiiSetCurrentForm('lePlotOptionsForm)
+\r t
+\a hiiSetCurrentForm('lePlotSubmitForm)
+\r t
+\a hiiSetCurrentForm('lePlotOptionsForm)
+\r t
+\a lePlotOptionsForm->plotToFileStr->value="/home/student/nehagour/library/Project_2_print/dff_layout.ps"
+\r "/home/student/nehagour/library/Project_2_print/dff_layout.ps"
+\a hiFormDone(lePlotOptionsForm)
+\r t
+\r t
+\a hiiSetCurrentForm('lePlotSubmitForm)
+\r t
+\a hiFormDone(lePlotSubmitForm)
+\o (LE-101019): Start Plotting ...
+\o plotServ 7.02, build a, CAT35, static
+\# Displaying modal dbox "dBox", title "Submit Plot"
+\p > 
+\a hiDBoxOK(dBox)
+\r t
+\o (LE-101018):   "234_Project_2 d-ff layout" to plotfile "/home/student/nehagour/library/Project_2_print/dff_layout.ps"
+\o (LE-101020): ... End Plotting
+\o (LE-101017): Successfully plotted 1 cellview(s)
+\r t
+\r t
+\a hiZoomAbsoluteScale(hiGetCurrentWindow() 0.9)
+\r t
+\a leHiCreatePRBoundary()
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i -0.915:26.29
+\r t
+\a addPoint(hiGetCommandPoint())
+\i 27.905:-0.69
+\r t
+\r t
+\a leHiSave()
+\# Current Window: window(2) Window cellview: 234_Project_2:d-ff:layout  Application: Virtuoso XL
+\r t
+\a leHiSubmitPlot()
+\o Loading /home/student/nehagour/.cdsplotinit
+\p > 
+\a leiDisplayPlotOptionsForm()
+\p > 
+\a hiiSetCurrentForm('lePlotOptionsForm)
+\r t
+\a lePlotOptionsForm->plotOrientationRadio->value="Portrait"
+\r "Portrait"
+\a hiFormDone(lePlotOptionsForm)
+\r t
+\r t
+\a hiiSetCurrentForm('lePlotSubmitForm)
+\r t
+\a hiFormDone(lePlotSubmitForm)
+\o (LE-101019): Start Plotting ...
+\o plotServ 7.02, build a, CAT35, static
+\# Displaying modal dbox "dBox", title "Submit Plot"
+\p > 
+\a hiDBoxOK(dBox)
+\r t
+\o (LE-101018):   "234_Project_2 d-ff layout" to plotfile "/home/student/nehagour/library/Project_2_print/dff_layout.ps"
+\o (LE-101020): ... End Plotting
+\o (LE-101017): Successfully plotted 1 cellview(s)
+\r t
+\r t
+\a hiExportImageDialog(hiGetCurrentWindow())
+\a nrSetWindowVisibility(ExportImageDialog "show")
+\r t
+\r t
+\a nrSetCurrentWindow(ExportImageDialog)
+\r t
+\a nrResizeWindow(ExportImageDialog list(372 57 517 527))
+\r t
+\# Memory report: using         734 MB, process size 2,327 MB at UTC 2022.12.01 04:38:28.109
+\a ExportImageDialog->bgColorSelect->value = t
+\r t
+\a nrSetWindowVisibility(BackgroundColorDialog "show")
+\r t
+\a nrSetCurrentWindow(BackgroundColorDialog)
+\r t
+\a nrResizeWindow(BackgroundColorDialog list(359 79 522 402))
+\r t
+\a BackgroundColorDialog->value = "#ffffff"
+\r "#ffffff"
+\a BackgroundColorDialog->OK->value = t
+\r t
+\a nrSetCurrentWindow(ExportImageDialog)
+\r t
+\a nrSetCurrentWindow(ExportImageDialog)
+\r t
+\a ExportImageDialog->fileName->value = "/home/student/nehagour/library/Project_2_print/dff_layout.jpg"
+\r "/home/student/nehagour/library/Project_2_print/dff_layout.jpg"
+\a ExportImageDialog->fileType->value = "JPG"
+\r "JPG"
+\a ExportImageDialog->save->value = t
+\r t
+\a hiZoomRelativeScale(hiGetCurrentWindow() 2.0)
+\r t
+\a hiZoomRelativeScale(hiGetCurrentWindow() 2.0)
+\r t
+\a geScroll(nil "n"    nil)
+\r t
+\a geScroll(nil "n"    nil)
+\r t
+\a geScroll(nil "n"    nil)
+\r t
+\a hiGetCurrentWindow()->stopLevel = dbGetMaxHierDepth()-1
+\r 31
+\a geScroll(nil "e"    nil)
+\r t
+\a geScroll(nil "e"    nil)
+\r t
+\a geScroll(nil "n"    nil)
+\r t
+\a geScroll(nil "n"    nil)
+\r t
+\a hiZoomRelativeScale(hiGetCurrentWindow() 2.0)
+\r t
+\a geScroll(nil "n"    nil)
+\r t
+\a geScroll(nil "n"    nil)
+\r t
+\a geScroll(nil "e"    nil)
+\r t
+\a weHiInteractiveRouting()
+\o Loading pinSolutions.cxt 
+\w *WARNING* (LE-105024): Switching to first valid routing layer ("Poly").
+\p > 
+\a mouseAddPt(t)
+\i 26.1485:23.8085
+\r t
+\a mouseApplyOrFinishPoint()
+\i 27.374:23.8
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a leHiSave()
+\# Current Window: window(2) Window cellview: 234_Project_2:d-ff:layout  Application: Virtuoso XL
+\r t
+\a hiZoomAbsoluteScale(hiGetCurrentWindow() 0.9)
+\r t
+\a leSetStopLevelToEditLevel(hiGetCurrentWindow())
+\r 0
+\a hiZoomRelativeScale(hiGetCurrentWindow() 2.0)
+\r t
+\a hiZoomRelativeScale(hiGetCurrentWindow() 0.5)
+\r t
+\a hiExportImageDialog(hiGetCurrentWindow())
+\r t
+\a nrSetCurrentWindow(ExportImageDialog)
+\r t
+\a ExportImageDialog->save->value = t
+\r t
+\a nrSetCurrentWindow(QMessageBox1)
+\r t
+\a QMessageBox1->Yes->value = t
+\r t
+\a nrSetCurrentWindow(ExportImageDialog)
+\r t
+\a mouseSingleSelectPt()
+\i 44.615:19.965
+\r nil
+\a hiCloseWindow(swindow(1))
+\# Current Window: window(3) Window cellview: 234_Project_2:d-ff:schematic  Application: Schematics XL
+\r t
+\a _hiSetCurrentWinNum(3)
+\r t
+\w Qt Warning: The X11 connection broke (error 1). Did the X11 server die?
+\e IO Error 11 (Resource temporarily unavailable) on Display "localhost:13.0" at UTC 2022.12.01 04:42:00.273
+\e Aborting due to fatal X IO error.
+\w *WARNING* Process was terminated with SIGABRT signal
+\o Local time (crash) Wednesday 30 November 2022, 08:42:00 PM
+\o Signal SIGHUP received on Wednesday 30 November 2022 at 08:42:00 PM (PST)
+\o The signal was sent by process id 17424
+\o <<< C Stack Trace (begin) >>>
+\o libvirtuos_sh.so:voSigExitHandler.part.8+132()
+\o libpthread.so.0:__restore_rt+0()
+\o libc.so.6:_dl_addr+352()
+\o libvirtuos_sh.so:voPrintSymbol+45()
+\o libvirtuos_sh.so:voiPrintStackSymbols+46()
+\o libvirtuos_sh.so:_ZN20votSigExitInfoStream5printERSo+328()
+\o virtuoso:_hiPrintSigExitInfo+290()
+\o virtuoso:hiPrintToSysLogFile+28()
+\o virtuoso:gliXIOErrorHandler+787()
+\o virtuoso:_hiEmulateXIOError+27()
+\o virtuoso:_ZL14hiqtMsgHandler9QtMsgTypeRK18QMessageLogContextRK7QString+1399()
+\o libcdsQt5Core.so.5:libhedElaborator_sh.so/PLT+40132179()
+\o libcdsQt5Core.so.5:_ZNK14QMessageLogger7warningEPKcz+153()
+\o libcdsQt5XcbQpa.so.5:_ZN14QXcbConnection16processXcbEventsEv+1467()
+\o libcdsQt5Core.so.5:_ZN7QObject5eventEP6QEvent+193()
+\o libcdsQt5Widgets.so.5:_ZN19QApplicationPrivate13notify_helperEP7QObjectP6QEvent+156()
+\o libcdsQt5Widgets.so.5:_ZN12QApplication6notifyEP7QObjectP6QEvent+577()
+\o libcdsQt5Core.so.5:_ZN16QCoreApplication15notifyInternal2EP7QObjectP6QEvent+264()
+\o libcdsQt5Core.so.5:_ZN23QCoreApplicationPrivate16sendPostedEventsEP7QObjectiP11QThreadData+733()
+\o libcdsQt5Core.so.5:libhedElaborator_sh.so/PLT+42538279()
+\o libglib-2.0.so.0:g_main_context_dispatch+345()
+\o libglib-2.0.so.0:+11957779()
+\o libglib-2.0.so.0:g_main_context_iteration+44()
+\o libcdsQt5Core.so.5:_ZN20QEventDispatcherGlib13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE+95()
+\o virtuoso:hiiFillCIWInPortCB+1661()
+\o libil_sh.so:iliBGetc+68()
+\o libil_sh.so:ilGetCharPort+111()
+\o libil_sh.so:_Z12ilFillBufferPcPmiPv+265()
+\o libil_sh.so:_Z7ilyylexP9ILYYSTYPEP9ILYYLTYPEPv+23906()
+\o libil_sh.so:_Z9ilyyparsePvP18iltLocalParserData+2549()
+\o libil_sh.so:ilParserReent+49()
+\o libil_sh.so:ilReadport+537()
+\o libil_sh.so:iliTopLevel+336()
+\o virtuoso:hiMainLoop+1119()
+\o virtuoso:_ZN3rde15startHiMainLoopEv+6299()
+\o virtuoso:Tcl_MainEx+1459()
+\o virtuoso:_ZN17TclCommandAdaptor8mainLoopEiPPcPKcRKSt6vectorI9ctuStringSaIS5_EEPFvvE+529()
+\o virtuoso:_Z11finaleEntryiPPcPKcbP16finaleAppHarness+4931()
+\o virtuoso:_Z12rdeStartMainiPPc+43()
+\o virtuoso:main+869()
+\o libc.so.6:__libc_start_main+245()
+\o virtuoso:_start+41()
+\o <<< C Stack Trace (end) >>>
+\o <<< Stack Trace >>>
+\o 	_insideilparser = t
+\o <<< SKILL Stack Trace (end) >>>
+\o 
+\o Running command: /usr/bin/top -b -n 1 -c
+\o top - 20:42:08 up 148 days,  9:24,  3 users,  load average: 0.39, 0.18, 0.10
+\o 
+\o Running command: /opt/cadence/IC618/tools.lnx86/bin/cdsPstack 17614
+\o Thread 12 (Thread 0x7fc23750b700 (LWP 17740)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 11 (Thread 0x7fc236d0a700 (LWP 17741)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 10 (Thread 0x7fc236509700 (LWP 17742)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 9 (Thread 0x7fc235d08700 (LWP 17743)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 8 (Thread 0x7fc235507700 (LWP 17744)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 7 (Thread 0x7fc234d06700 (LWP 17745)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 6 (Thread 0x7fc234505700 (LWP 17746)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 5 (Thread 0x7fc233d04700 (LWP 17747)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 4 (Thread 0x7fc230819700 (LWP 17938)):
+\o #0  0x00007fc274901e9d in nanosleep () from /lib64/libpthread.so.0
+\o #1  0x0000000015179c65 in eli::eliRecheckControl::recheckWorker() ()
+\o #2  0x00007fc253f1db8f in ?? () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libstdc++.so.6
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 3 (Thread 0x7fc22bfff700 (LWP 18153)):
+\o #0  0x00007fc253672b43 in select () from /lib64/libc.so.6
+\o #1  0x0000000009360d3c in NotifierThreadProc ()
+\o #2  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #3  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 2 (Thread 0x7fc232b12700 (LWP 19009)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc26391330b in QWaitCondition::wait(QMutex*, unsigned long) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #2  0x00007fc262f797b2 in ?? () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Widgets.so.5
+\o #3  0x00007fc2639124ca in ?? () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #4  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #5  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 1 (Thread 0x7fc243a4a600 (LWP 17614)):
+\o #0  0x00007fc25366cb5d in read () from /lib64/libc.so.6
+\o #1  0x00007fc2535f8d54 in __GI__IO_file_underflow () from /lib64/libc.so.6
+\o #2  0x00007fc2535f9f22 in __GI__IO_default_uflow () from /lib64/libc.so.6
+\o #3  0x00007fc2535eccd4 in __GI__IO_getline_info () from /lib64/libc.so.6
+\o #4  0x00007fc2535ebad6 in fgets () from /lib64/libc.so.6
+\o #5  0x00007fc26eaa7190 in votSigExitInfoStream::printChildOutput(std::ostream&) () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libvirtuos_sh.so
+\o #6  0x00007fc26eaa7981 in votSigExitInfoStream::print(std::ostream&) () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libvirtuos_sh.so
+\o #7  0x00000000170df8a2 in _hiPrintSigExitInfo ()
+\o #8  0x00000000170dfdcb in hiPrintToSysLogFile.constprop.44 ()
+\o #9  0x00000000170e028e in printMemReport(unsigned long) ()
+\o #10 0x00000000170e2462 in _hiCheckResourceMemStats ()
+\o #11 0x00000000170e2cf0 in _hiPrintToSysLogFile(char const*, unsigned int, char) ()
+\o #12 0x00000000170df99a in _hiPrintSigExitInfo ()
+\o #13 0x00000000170e3a0c in hiPrintToSysLogFile ()
+\o #14 0x00000000170edd43 in gliXIOErrorHandler ()
+\o #15 0x00000000170edfdb in _hiEmulateXIOError ()
+\o #16 0x00000000170ccf17 in hiqtMsgHandler(QtMsgType, QMessageLogContext const&, QString const&) ()
+\o #17 0x00007fc2638f9b7f in ?? () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #18 0x00007fc2638fa849 in QMessageLogger::warning(char const*, ...) const () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #19 0x00007fc241b6d35b in QXcbConnection::processXcbEvents() () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5XcbQpa.so.5
+\o #20 0x00007fc263b1d8b1 in QObject::event(QEvent*) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #21 0x00007fc262d6c0cc in QApplicationPrivate::notify_helper(QObject*, QEvent*) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Widgets.so.5
+\o #22 0x00007fc262d733d1 in QApplication::notify(QObject*, QEvent*) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Widgets.so.5
+\o #23 0x00007fc263af1558 in QCoreApplication::notifyInternal2(QObject*, QEvent*) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #24 0x00007fc263af419d in QCoreApplicationPrivate::sendPostedEvents(QObject*, int, QThreadData*) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #25 0x00007fc263b45253 in ?? () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #26 0x00007fc2503b4119 in g_main_context_dispatch () from /lib64/libglib-2.0.so.0
+\o #27 0x00007fc2503b4478 in g_main_context_iterate.isra.19 () from /lib64/libglib-2.0.so.0
+\o #28 0x00007fc2503b452c in g_main_context_iteration () from /lib64/libglib-2.0.so.0
+\o #29 0x00007fc263b4481f in QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #30 0x00000000170eae7d in hiiFillCIWInPortCB ()
+\o #31 0x00007fc26731c394 in iliBGetc () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #32 0x00007fc26731dd1f in ilGetCharPort () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #33 0x00007fc2672a0b89 in ilFillBuffer(char*, unsigned long*, int, void*) () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #34 0x00007fc2672a6d82 in ilyylex(ILYYSTYPE*, ILYYLTYPE*, void*) () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #35 0x00007fc267298755 in ilyyparse(void*, iltLocalParserData*) () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #36 0x00007fc2672d3501 in ilParserReent () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #37 0x00007fc2672d6969 in ilReadport () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #38 0x00007fc2672eaa60 in iliTopLevel () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #39 0x00000000170cebaf in hiMainLoop ()
+\o #40 0x0000000008fabbeb in rde::startHiMainLoop() ()
+\o #41 0x000000000931dc83 in Tcl_MainEx ()
+\o #42 0x00000000122bd4a1 in TclCommandAdaptor::mainLoop(int, char**, char const*, std::vector<ctuString, std::allocator<ctuString> > const&, void (*)()) ()
+\o #43 0x000000000fbd5553 in finaleEntry(int, char**, char const*, bool, finaleAppHarness*) ()
+\o #44 0x0000000008e8e66b in rdeStartMain(int, char**) ()
+\o #45 0x00000000047c9135 in main ()
+\o 
+\o Memory usage on exit: 892 MB, process size: 2485 MB
+\# Memory report: using         870 MB, process size 2,463 MB at UTC 2022.12.01 04:42:07.847
+\o Connection to the X server severed on Wednesday 30 November 2022 at 08:42:00 PM (PST)
+\o <<< C Stack Trace (begin) >>>
+\o libvirtuos_sh.so:voSigExitX11Handler+76()
+\o virtuoso:gliXIOErrorHandler+772()
+\o virtuoso:_hiEmulateXIOError+27()
+\o virtuoso:_ZL14hiqtMsgHandler9QtMsgTypeRK18QMessageLogContextRK7QString+1399()
+\o libcdsQt5Core.so.5:libhedElaborator_sh.so/PLT+40132179()
+\o libcdsQt5Core.so.5:_ZNK14QMessageLogger7warningEPKcz+153()
+\o libcdsQt5XcbQpa.so.5:_ZN14QXcbConnection16processXcbEventsEv+1467()
+\o libcdsQt5Core.so.5:_ZN7QObject5eventEP6QEvent+193()
+\o libcdsQt5Widgets.so.5:_ZN19QApplicationPrivate13notify_helperEP7QObjectP6QEvent+156()
+\o libcdsQt5Widgets.so.5:_ZN12QApplication6notifyEP7QObjectP6QEvent+577()
+\o libcdsQt5Core.so.5:_ZN16QCoreApplication15notifyInternal2EP7QObjectP6QEvent+264()
+\o libcdsQt5Core.so.5:_ZN23QCoreApplicationPrivate16sendPostedEventsEP7QObjectiP11QThreadData+733()
+\o libcdsQt5Core.so.5:libhedElaborator_sh.so/PLT+42538279()
+\o libglib-2.0.so.0:g_main_context_dispatch+345()
+\o libglib-2.0.so.0:+11957779()
+\o libglib-2.0.so.0:g_main_context_iteration+44()
+\o libcdsQt5Core.so.5:_ZN20QEventDispatcherGlib13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE+95()
+\o virtuoso:hiiFillCIWInPortCB+1661()
+\o libil_sh.so:iliBGetc+68()
+\o libil_sh.so:ilGetCharPort+111()
+\o libil_sh.so:_Z12ilFillBufferPcPmiPv+265()
+\o libil_sh.so:_Z7ilyylexP9ILYYSTYPEP9ILYYLTYPEPv+23906()
+\o libil_sh.so:_Z9ilyyparsePvP18iltLocalParserData+2549()
+\o libil_sh.so:ilParserReent+49()
+\o libil_sh.so:ilReadport+537()
+\o libil_sh.so:iliTopLevel+336()
+\o virtuoso:hiMainLoop+1119()
+\o virtuoso:_ZN3rde15startHiMainLoopEv+6299()
+\o virtuoso:Tcl_MainEx+1459()
+\o virtuoso:_ZN17TclCommandAdaptor8mainLoopEiPPcPKcRKSt6vectorI9ctuStringSaIS5_EEPFvvE+529()
+\o virtuoso:_Z11finaleEntryiPPcPKcbP16finaleAppHarness+4931()
+\o virtuoso:_Z12rdeStartMainiPPc+43()
+\o virtuoso:main+869()
+\o libc.so.6:__libc_start_main+245()
+\o virtuoso:_start+41()
+\o <<< C Stack Trace (end) >>>
+\o <<< Stack Trace >>>
+\o 	_insideilparser = t
+\o <<< SKILL Stack Trace (end) >>>
+\o 
+\o Running command: /usr/bin/top -b -n 1 -c
+\o top - 20:42:01 up 148 days,  9:24,  3 users,  load average: 0.33, 0.17, 0.10
+\o 
+\o Running command: /opt/cadence/IC618/tools.lnx86/bin/cdsPstack 17614
+\o Thread 12 (Thread 0x7fc23750b700 (LWP 17740)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 11 (Thread 0x7fc236d0a700 (LWP 17741)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 10 (Thread 0x7fc236509700 (LWP 17742)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 9 (Thread 0x7fc235d08700 (LWP 17743)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 8 (Thread 0x7fc235507700 (LWP 17744)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 7 (Thread 0x7fc234d06700 (LWP 17745)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 6 (Thread 0x7fc234505700 (LWP 17746)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 5 (Thread 0x7fc233d04700 (LWP 17747)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc23ae3a0b3 in thread_function () from /usr/lib64/dri/swrast_dri.so
+\o #2  0x00007fc23ae39c27 in impl_thrd_routine () from /usr/lib64/dri/swrast_dri.so
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 4 (Thread 0x7fc230819700 (LWP 17938)):
+\o #0  0x00007fc274901e9d in nanosleep () from /lib64/libpthread.so.0
+\o #1  0x0000000015179c65 in eli::eliRecheckControl::recheckWorker() ()
+\o #2  0x00007fc253f1db8f in ?? () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libstdc++.so.6
+\o #3  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #4  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 3 (Thread 0x7fc22bfff700 (LWP 18153)):
+\o #0  0x00007fc253672b43 in select () from /lib64/libc.so.6
+\o #1  0x0000000009360d3c in NotifierThreadProc ()
+\o #2  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #3  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 2 (Thread 0x7fc232b12700 (LWP 19009)):
+\o #0  0x00007fc2748fea35 in pthread_cond_wait@@GLIBC_2.3.2 () from /lib64/libpthread.so.0
+\o #1  0x00007fc26391330b in QWaitCondition::wait(QMutex*, unsigned long) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #2  0x00007fc262f797b2 in ?? () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Widgets.so.5
+\o #3  0x00007fc2639124ca in ?? () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #4  0x00007fc2748faea5 in start_thread () from /lib64/libpthread.so.0
+\o #5  0x00007fc25367bb0d in clone () from /lib64/libc.so.6
+\o Thread 1 (Thread 0x7fc243a4a600 (LWP 17614)):
+\o #0  0x00007fc25366cb5d in read () from /lib64/libc.so.6
+\o #1  0x00007fc2535f8d54 in __GI__IO_file_underflow () from /lib64/libc.so.6
+\o #2  0x00007fc2535f9f22 in __GI__IO_default_uflow () from /lib64/libc.so.6
+\o #3  0x00007fc2535eccd4 in __GI__IO_getline_info () from /lib64/libc.so.6
+\o #4  0x00007fc2535ebad6 in fgets () from /lib64/libc.so.6
+\o #5  0x00007fc26eaa7190 in votSigExitInfoStream::printChildOutput(std::ostream&) () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libvirtuos_sh.so
+\o #6  0x00007fc26eaa7981 in votSigExitInfoStream::print(std::ostream&) () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libvirtuos_sh.so
+\o #7  0x00000000170df8a2 in _hiPrintSigExitInfo ()
+\o #8  0x00000000170e3a0c in hiPrintToSysLogFile ()
+\o #9  0x00000000170edd43 in gliXIOErrorHandler ()
+\o #10 0x00000000170edfdb in _hiEmulateXIOError ()
+\o #11 0x00000000170ccf17 in hiqtMsgHandler(QtMsgType, QMessageLogContext const&, QString const&) ()
+\o #12 0x00007fc2638f9b7f in ?? () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #13 0x00007fc2638fa849 in QMessageLogger::warning(char const*, ...) const () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #14 0x00007fc241b6d35b in QXcbConnection::processXcbEvents() () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5XcbQpa.so.5
+\o #15 0x00007fc263b1d8b1 in QObject::event(QEvent*) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #16 0x00007fc262d6c0cc in QApplicationPrivate::notify_helper(QObject*, QEvent*) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Widgets.so.5
+\o #17 0x00007fc262d733d1 in QApplication::notify(QObject*, QEvent*) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Widgets.so.5
+\o #18 0x00007fc263af1558 in QCoreApplication::notifyInternal2(QObject*, QEvent*) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #19 0x00007fc263af419d in QCoreApplicationPrivate::sendPostedEvents(QObject*, int, QThreadData*) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #20 0x00007fc263b45253 in ?? () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #21 0x00007fc2503b4119 in g_main_context_dispatch () from /lib64/libglib-2.0.so.0
+\o #22 0x00007fc2503b4478 in g_main_context_iterate.isra.19 () from /lib64/libglib-2.0.so.0
+\o #23 0x00007fc2503b452c in g_main_context_iteration () from /lib64/libglib-2.0.so.0
+\o #24 0x00007fc263b4481f in QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) () from /opt/cadence/IC618/tools.lnx86/Qt/v5/64bit/lib/libcdsQt5Core.so.5
+\o #25 0x00000000170eae7d in hiiFillCIWInPortCB ()
+\o #26 0x00007fc26731c394 in iliBGetc () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #27 0x00007fc26731dd1f in ilGetCharPort () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #28 0x00007fc2672a0b89 in ilFillBuffer(char*, unsigned long*, int, void*) () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #29 0x00007fc2672a6d82 in ilyylex(ILYYSTYPE*, ILYYLTYPE*, void*) () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #30 0x00007fc267298755 in ilyyparse(void*, iltLocalParserData*) () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #31 0x00007fc2672d3501 in ilParserReent () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #32 0x00007fc2672d6969 in ilReadport () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #33 0x00007fc2672eaa60 in iliTopLevel () from /opt/cadence/IC618/tools.lnx86/lib/64bit/libil_sh.so
+\o #34 0x00000000170cebaf in hiMainLoop ()
+\o #35 0x0000000008fabbeb in rde::startHiMainLoop() ()
+\o #36 0x000000000931dc83 in Tcl_MainEx ()
+\o #37 0x00000000122bd4a1 in TclCommandAdaptor::mainLoop(int, char**, char const*, std::vector<ctuString, std::allocator<ctuString> > const&, void (*)()) ()
+\o #38 0x000000000fbd5553 in finaleEntry(int, char**, char const*, bool, finaleAppHarness*) ()
+\o #39 0x0000000008e8e66b in rdeStartMain(int, char**) ()
+\o #40 0x00000000047c9135 in main ()
+\o 
+\o Memory usage on exit: 870 MB, process size: 2463 MB

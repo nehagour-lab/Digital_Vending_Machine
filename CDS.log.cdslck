@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nehagour
+HostName                       ecs-pa-hawking.ecs.csus.edu
+ProcessIdentifier              17614
+ProcessCreationTime_UTC        1669868993
+ProcessCreationTime_Readable   Wed Nov 30 20:29:53 2022 PST
+AppIdentifier                  /opt/cadence/IC618/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       Set lock by hiiLockFile
+FilePathUsedToEditLock         /home/student/nehagour/CDS.log
+TimeEditLocked                 Wed Nov 30 20:29:53 2022 PST

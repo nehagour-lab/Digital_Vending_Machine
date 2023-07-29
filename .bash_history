@@ -1,0 +1,2684 @@
+#1663091171
+mkdir -p eee234
+#1663091190
+d eee234/
+#1663091198
+cd eee234/
+#1663091200
+ls
+#1663091219
+virtuoso &
+#1663119618
+ls
+#1663119624
+cd eee234/
+#1663119625
+ls
+#1663119732
+clear
+#1663119737
+virtuoso &
+#1663122066
+ls
+#1663122070
+cd eee234/.cadence/
+#1663122074
+ll
+#1663122077
+ls
+#1663122080
+cd ../
+#1663122082
+ll
+#1663122086
+clear
+#1663122086
+ls
+#1663122096
+virtuoso &
+#1663122774
+ls
+#1663122781
+pwd
+#1663122793
+cd ../
+#1663122803
+ls
+#1663122807
+cd eee234/
+#1663122807
+ls
+#1663122884
+virtuoso &
+#1663122956
+ls
+#1663122960
+cd ../
+#1663122961
+ls
+#1663122967
+mkdir test_1
+#1663122983
+cp -rf eee234/assura_tech.lib ./
+#1663122991
+cp -rf eee234/pvtech.lib ./
+#1663123001
+cp -rf eee234/cds.lib ./
+#1663123003
+ls
+#1663123017
+rm -rf eee234/
+#1663123059
+rm -rf assura_tech.lib cds.lib pvtech.lib 
+#1663123062
+ls
+#1663123066
+cd test_1/
+#1663123117
+ls
+#1663123127
+virtuoso &
+#1663123228
+ls
+#1663123237
+rm -rf libManager.log 
+#1663123240
+clear
+#1663123243
+virtuoso &
+#1663308606
+ls
+#1663308609
+cd test_1/
+#1663308611
+ls
+#1663308619
+virtuoso &
+#1663309969
+clear
+#1663309974
+virtuoso &
+#1663438868
+ls
+#1663438872
+cd test_1/
+#1663438877
+ls
+#1663438889
+cd ../
+#1663438890
+ls
+#1663438895
+rm -rf test_1/
+#1663438905
+mkdir library
+#1663438908
+cd library/
+#1663438949
+ls
+#1663438956
+cd ../
+#1663438984
+pwd
+#1663440057
+ls
+#1663440063
+cd library/
+#1663440099
+clear
+#1663440186
+ls
+#1663440188
+pwd
+#1663440281
+exit
+#1663440443
+pwd
+#1663440444
+ls
+#1663440489
+cd library/
+#1663440490
+ls
+#1663440499
+virtuoso&
+#1663440571
+ll
+#1663440862
+d ../
+#1663440864
+exit
+#1663441005
+ls
+#1663441008
+cd library/
+#1663441010
+ls
+#1663441258
+virtuoso &
+#1663441690
+virtuoso&
+#1663443314
+ls 
+#1663443316
+cd library/
+#1663443323
+virtuoso&
+#1663444540
+ls
+#1663444549
+virtuoso &
+#1663533231
+ls
+#1663533254
+rm -rf CDS.log 
+#1663533255
+ls
+#1663533264
+rm -rf libManager.log 
+#1663533270
+ls
+#1663533273
+cd library/
+#1663533276
+ls
+#1663533317
+vrtuoso&
+#1663533325
+virtuoso&
+#1663536832
+cd library/
+#1663536837
+virtuoso&
+#1663541934
+cd library/
+#1663541940
+virtuoso &
+#1663553630
+cd library/
+#1663553632
+ls
+#1663553643
+virtuoso &
+#1663975033
+clear
+#1663975034
+la
+#1663975036
+ls
+#1663975041
+cd library/
+#1663975042
+ls
+#1663975055
+rm -rf Project_1/ libManager.log 
+#1663975057
+clear
+#1663975064
+virtuoso&
+#1663975095
+ls
+#1663975117
+virtuoso&
+#1664000194
+ls
+#1664000207
+rm -rf CDS.log*
+#1664000210
+clear
+#1664000210
+ls
+#1664000217
+rm -rf panic.log.ecs-pa-einstein.ecs.csus.edu.*
+#1664000219
+ls
+#1664000221
+cd library/
+#1664000222
+ls
+#1664000230
+rm -rf libManager.log 
+#1664000298
+ls
+#1664000328
+virtuoso&
+#1664007304
+cd library/
+#1664007311
+virtuoso &
+#1664216106
+ls
+#1664216111
+cd library/
+#1664216122
+cd ../simulation/Testbench/spectre/schematic/
+#1664216124
+ls
+#1664216128
+cd netlist/
+#1664216129
+ls
+#1664216136
+cd ../psf/
+#1664216138
+ls
+#1664216146
+cd ../../../
+#1664216147
+ls
+#1664216154
+cd ../
+#1664216154
+ls
+#1664216157
+cd ../
+#1664216158
+ls
+#1664216161
+cd library/
+#1664216162
+ls
+#1664216164
+clear
+#1664216201
+ls
+#1664216207
+rm -rf Project_1/
+#1664216214
+cd ../
+#1664216214
+;s
+#1664216216
+ls
+#1664216220
+rm -rf simulation/
+#1664216221
+ls
+#1664216225
+cd library/
+#1664216226
+ls
+#1664216235
+gvim print.pdf 
+#1664216241
+vim print.pdf 
+#1664216247
+clear
+#1664216248
+ls
+#1664216251
+pwd
+#1664216257
+rm -rf print.pdf 
+#1664216259
+clear
+#1664216260
+ls
+#1664216267
+cd ../
+#1664216268
+ls
+#1664216271
+cd library/
+#1664216276
+virtuoso &
+#1664217030
+ls
+#1664217040
+rm -rf libManager.log libManager.log*
+#1664217042
+ls
+#1664217052
+sync 
+#1664217053
+ls
+#1664219998
+cd Project_1/
+#1664220000
+ls
+#1664220036
+mv Schametic_of_inverter.jpg Circuit_of_inverter.jpg
+#1664220038
+ls
+#1664220104
+xdg-open Simulation_of_inverter.pdf 
+#1664220253
+clear
+#1664223162
+exit
+#1664252728
+cd library/
+#1664252735
+virtuoso&
+#1664260990
+pwd
+#1664261076
+cd ../../../../home/student/nehagour/
+#1664261077
+ls
+#1664261083
+cd library/
+#1664261084
+ls
+#1664261106
+source cadencescript 
+#1664261113
+echo $PATH
+#1664261118
+clear
+#1664261121
+echo $PATH
+#1664261155
+ls
+#1664261161
+gvim cds.lib
+#1664261168
+vim cds.lib
+#1664261304
+ls
+#1664261307
+vi pvtech.lib 
+#1664261349
+clear
+#1664261424
+ls
+#1664261426
+pwd
+#1664261431
+virtuoso &
+#1664261446
+virtuoso&
+#1664332451
+clear
+#1664332452
+ls
+#1664332455
+cd library/
+#1664332455
+ls
+#1664332464
+virtuoso &
+#1664333946
+ls
+#1664333952
+source cadencescript 
+#1664333961
+echo $PATH
+#1664333966
+vi cds.lib 
+#1664333976
+vi pvtech.lib 
+#1664334010
+clear
+#1664334016
+virtuoso &
+#1664345053
+cd library/
+#1664345057
+source cadencescript 
+#1664345065
+virtuoso&
+#1664348381
+clear
+#1664644174
+ls
+#1664644177
+cd library/
+#1664644178
+ls
+#1664644185
+source cadencescript 
+#1664644223
+ls
+#1664644226
+clear
+#1664644233
+virtuoso&
+#1664755988
+clear
+#1664755994
+cd library/
+#1664756001
+source cadencescript 
+#1664756006
+virtuoso&
+#1664785293
+clear
+#1664785296
+ls
+#1664785299
+cd library/
+#1664785308
+ls
+#1664786908
+source cadencescript 
+#1664786915
+clear
+#1664786915
+ls
+#1664786970
+virtuoso&
+#1664786997
+vi cds.lib
+#1664787054
+ls
+#1664787059
+rm -rf Inverter.*
+#1664787061
+LS
+#1664787062
+ls
+#1664787074
+rm -rf Project_1/ libManager.log 
+#1664787076
+ls
+#1664787079
+clear
+#1664787080
+ls
+#1664787082
+cd ../
+#1664787084
+ls
+#1664787090
+rm -rf panic.log.ecs-pa-hawking.ecs.csus.edu.*
+#1664787092
+ls
+#1664787097
+rm -rf simulation/
+#1664787107
+rm -rf CDS.log 
+#1664787110
+clear
+#1664787117
+virtuoso&
+#1664787238
+LS
+#1664787240
+ls
+#1664787246
+rm -rf CDS.log lib
+#1664787248
+ls
+#1664787253
+rm -rf CDS.log libManager.log 
+#1664787255
+ls
+#1664787257
+clear
+#1664787259
+cd library/
+#1664787260
+ls
+#1664787269
+virtuoso&
+#1664787292
+ls
+#1664787295
+vi cds.lib 
+#1664787320
+source cadencescript 
+#1664787345
+virtuoso&
+#1664789500
+clear
+#1664789500
+ls
+#1664789514
+grep -ir "cdsplotinit"
+#1664848591
+ls
+#1664848593
+clear
+#1664848595
+cd library/
+#1664848600
+virtuoso&
+#1664848906
+pwd
+#1664848915
+cd ../../../
+#1664848917
+ls -a
+#1664848922
+cd -
+#1664848925
+cd ../../
+#1664848926
+ls
+#1664848931
+cd .
+#1664848933
+clear
+#1664848938
+ls
+#1664848940
+pwd
+#1664848951
+cd nehagour/
+#1664848953
+clear
+#1664848954
+ls
+#1664849029
+gvim .cdsplotinit
+#1664849035
+vim .cdsplotinit
+#1664849132
+cat postscriptFile | ps2pdfConversionScript -
+#1664849140
+vim .cdsplotinit
+#1664849321
+~\.cdsplotinit
+#1664849332
+\~.cdsplotinit
+#1664849336
+\.cdsplotinit
+#1664849346
+echo $0
+#1664849382
+.cdsplotinit
+#1664849386
+clear
+#1664849387
+ls
+#1664849395
+vim .cdsplotinit
+#1664849405
+ls
+#1664849407
+ls -a
+#1664849595
+~/.cdsplotinit
+#1664849643
+ls -l
+#1664849649
+ls -l -a
+#1664849671
+chmod +x .cdsplotinit
+#1664849675
+ls -l -a
+#1664849682
+clear
+#1664849687
+~/.cdsplotinit
+#1664849695
+ls
+#1664849739
+vi .cdsplotinit
+#1664849813
+~/.cdsplotinit
+#1664849827
+vi .cdsplotinit
+#1664849981
+~/.cdsplotinit
+#1664850052
+ls
+#1664850055
+clear
+#1664850227
+vi .cdsplotinit
+#1664850261
+~/.cdsplotinit
+#1664850270
+vi .cdsplotinit
+#1664850366
+~/.cdsplotinit
+#1664850370
+vi .cdsplotinit
+#1664850383
+~/.cdsplotinit
+#1664850396
+vi .cdsplotinit
+#1664850428
+~/.cdsplotinit
+#1664850439
+vi .cdsplotinit
+#1664850635
+clear
+#1664850639
+ls -l -a
+#1664850654
+clear
+#1664850750
+vi .cdsplotinit
+#1664850835
+rm -rf .cdsplotinit
+#1664850837
+clear
+#1664850987
+cd ~
+#1664850989
+pwd
+#1664850993
+cd ../../../
+#1664850994
+ls
+#1664850999
+cd home/
+#1664851000
+ls
+#1664851006
+ls -a
+#1664851013
+cd ecsadmin/
+#1664851024
+cd /opt/
+#1664851025
+ls
+#1664851028
+cd cadence/
+#1664851029
+ls
+#1664851033
+ls -a
+#1664851039
+cd ASSURA41/
+#1664851040
+LS
+#1664851041
+ls
+#1664851045
+clear
+#1664851046
+ls
+#1664851054
+ls -a
+#1664851062
+cd install
+#1664851063
+ls
+#1664851065
+ls -a
+#1664851070
+cd pdts/
+#1664851071
+ls
+#1664851076
+cd ../
+#1664851081
+ls
+#1664851087
+cd data/
+#1664851087
+ls
+#1664851099
+ls -a
+#1664851106
+vi defaults
+#1664851120
+clear
+#1664851121
+ls
+#1664851125
+cd exe
+#1664851126
+ls
+#1664851130
+cd ../
+#1664851131
+ls
+#1664851133
+cd ../
+#1664851134
+ls
+#1664851138
+ls -a
+#1664851144
+cd cadence/
+#1664851144
+ls
+#1664851147
+ls pa
+#1664851149
+clear
+#1664851151
+ls -a
+#1664851165
+grep -r *cdsplot*
+#1664851175
+clear
+#1664851176
+ls
+#1664851180
+cd QUANTUS211/
+#1664851180
+LS
+#1664851182
+ls
+#1664851191
+cd tools/
+#1664851192
+ls
+#1664851199
+ls -a
+#1664851209
+cd ../../
+#1664851210
+ls
+#1664851219
+cd SPECTRE201/
+#1664851221
+ls
+#1664851237
+cd install/pdts/
+#1664851238
+ls
+#1664851242
+cd ../../
+#1664851244
+pwd
+#1664851247
+cd ../
+#1664851294
+ls
+#1664851298
+cd IC618/
+#1664851301
+ls
+#1664851312
+ls -a
+#1664851319
+clear
+#1664851320
+ls
+#1664851324
+clear
+#1664851344
+ls -a
+#1664851365
+cd tools
+#1664851366
+ls
+#1664851381
+cd plot
+#1664851382
+ls
+#1664851385
+cd samples/
+#1664851386
+ls
+#1664851399
+vi cdsplotinit.sample 
+#1664851420
+pwd
+#1664851487
+clear
+#1664851488
+ls
+#1664851490
+ls -a
+#1664851505
+vi printcap_blk_ras_sample 
+#1664851510
+cd ../
+#1664851512
+ls -a
+#1664851523
+pwd
+#1664851527
+cd samples/
+#1664851528
+ls
+#1664851761
+pwd
+#1664851763
+cd ../
+#1664851764
+ls
+#1664851767
+cd bin
+#1664851768
+ls
+#1664851774
+pwd
+#1664851811
+vi plotconfig 
+#1664851818
+clear
+#1664851819
+ls
+#1664851826
+cd ../
+#1664851827
+ls
+#1664851832
+cd etc/testfiles/
+#1664851833
+ls
+#1664851836
+ls -a
+#1664851839
+cd ../
+#1664851840
+ls -a
+#1664851845
+pwd
+#1664851850
+ls
+#1664851852
+clear
+#1664851853
+ls
+#1664851863
+vi cdsplotinit 
+#1664851897
+cp -rf cdsplotinit .cdsplotinit
+#1664851903
+ls
+#1664851912
+vi .cdsplotinit
+#1664851930
+ls -a
+#1664851956
+vi cdsplotinit 
+#1664851985
+vi .cdsplotinit
+#1664852010
+ls -a
+#1664852033
+cd /home/student/nehagour/
+#1664852053
+ls
+#1664852060
+vi .cdsplotinit
+#1664852079
+ls -a
+#1664852097
+chmod +x .cdsplotinit
+#1664852100
+clear
+#1664852102
+ls -a
+#1664852149
+/opt/cadence/IC618/tools/plot/bin/plotconfig 
+#1664852251
+pwd
+#1664852254
+ls -a 
+#1664852267
+vi .cdsplotinit.bak 
+#1664852277
+vi .cdsplotinit
+#1664852292
+clear
+#1664852294
+ls -a
+#1664852304
+chmod +x .cdsplotinit
+#1664852306
+clear
+#1664852307
+ls
+#1664852342
+/opt/cadence/IC618/tools/plot/bin/plotconfig 
+#1664852718
+clear
+#1664852720
+ls
+#1664852740
+/opt/cadence/IC618/tools/plot/bin/plotconfig ~/.cdsplotinit
+#1664857440
+clear
+#1664857440
+ls
+#1664857444
+cd library/
+#1664857445
+ls
+#1664857448
+ls -a
+#1664857463
+virtuoso&
+#1664857564
+ls
+#1664858003
+exit
+#1664942868
+clear
+#1664942872
+cd library/
+#1664942876
+virtuoso&
+#1664956155
+clear
+#1664956160
+cd library/
+#1664956168
+source cadencescript 
+#1664956170
+clear
+#1664956174
+virtuoso&
+#1664956550
+ls
+#1664956557
+cd 234_PROJECT_1_Inverter/
+#1664956559
+clear
+#1664956560
+ls
+#1664956569
+cd Inverter_Testbench/
+#1664956578
+clear
+#1664956580
+ls
+#1664956610
+firefox INverter_simulation.pdf
+#1664956629
+cclear
+#1664956632
+clear
+#1664956632
+ls
+#1664956636
+cd ../
+#1664956637
+ls
+#1664956643
+cd Inverter
+#1664956643
+ls
+#1664956651
+cd schematic/
+#1664956652
+ls
+#1664956656
+pwd
+#1664956703
+ls
+#1664956709
+clear
+#1664956710
+ls
+#1664956720
+ls -a
+#1664956723
+pwd
+#1664956736
+ls
+#1664956860
+cd ../
+#1664956862
+ls
+#1664956864
+cd ../
+#1664956865
+ls
+#1665007246
+clear
+#1665007247
+ls
+#1665007250
+cd library/
+#1665007251
+ls
+#1665007262
+cd 234_PROJECT_1_Inverter/Inverter
+#1665007263
+ls
+#1665007268
+cd schematic/
+#1665007269
+ls
+#1665007277
+cd ../
+#1665007284
+cd symbol/
+#1665007285
+ls
+#1665007289
+clear
+#1665007291
+ls
+#1665007293
+cd ../
+#1665007296
+ls
+#1665007299
+cd ../
+#1665007301
+ls
+#1665007311
+find *.ps*
+#1665007317
+find ./ *.ps*
+#1665007330
+find ./ -name *.ps*
+#1665007334
+clear
+#1665007334
+ls
+#1665007348
+virtuoso&
+#1665016016
+clear
+#1665016017
+ls
+#1665016032
+mkdir Print 
+#1665016034
+cd Print/
+#1665016036
+ls
+#1665016052
+mkdir 234_Project_1_NAND_gate
+#1665016056
+cd 234_Project_1_NAND_gate/
+#1665016058
+clear
+#1665016060
+pwd
+#1665017467
+ls
+#1665023723
+cd ../
+#1665023725
+ls
+#1665023743
+mkdir -p 234_Project_1_NOR_gate
+#1665023763
+mkdir -p 234_Project_1_INVERTER
+#1665023770
+cd 234_Project_1_INVERTER/
+#1665023773
+clear
+#1665023775
+ls
+#1665023782
+cd ../../
+#1665023783
+ls
+#1665023790
+pwd
+#1665023796
+virtuoso&
+#1665024085
+clear
+#1665024086
+ls
+#1665024091
+cd Print/234_Project_1_INVERTER/
+#1665024094
+pwd
+#1665026061
+ls
+#1665026065
+pwd
+#1665026069
+cd ../.././
+#1665026071
+ls
+#1665026078
+virtuoso&
+#1665027307
+clear
+#1665027311
+pwd
+#1665027313
+ls
+#1665027332
+mkdir -p 234_Project_1_NOR_gate
+#1665027340
+virtuoso&
+#1665039769
+clear
+#1665039770
+ls
+#1665039773
+cd library/
+#1665039774
+ls
+#1665039781
+virtuoso&
+#1665043038
+pwd
+#1665043045
+cd Print/234_Project_1_NOR_gate/
+#1665043048
+clear
+#1665043049
+pwd
+#1665043178
+ls
+#1665043183
+rm -rf *
+#1665043184
+ls
+#1665044855
+clear
+#1665044858
+cd ../../../
+#1665044860
+ls
+#1665044867
+cd library/
+#1665044869
+ls
+#1665210856
+virtuoso&
+#1665210908
+clear
+#1665210909
+ls
+#1665210912
+cd library/
+#1665210914
+clear
+#1665210919
+virtuoso&
+#1665251316
+clear
+#1665251319
+cd library/
+#1665251321
+ls
+#1665251326
+virtuoso&
+#1665257241
+clear
+#1665257241
+ls
+#1665257244
+cd library/
+#1665257245
+ls
+#1665257255
+virtuoso&
+#1665263278
+cd Print/
+#1665263280
+clear
+#1665263281
+ls
+#1665263295
+mkdir -p 234_Project_1_XOR_gate
+#1665263299
+cd 234_Project_1_
+#1665263302
+cd 234_Project_1_XOR_gate/
+#1665263304
+clear
+#1665263306
+ls
+#1665263311
+pwd
+#1665283814
+cd library/
+#1665283821
+virtuoso&
+#1665324895
+clear
+#1665324895
+ls
+#1665324899
+cd library/
+#1665324901
+clear
+#1665324914
+ls
+#1665324944
+mkdir -p 234_Project_1_complex_gate
+#1665324951
+cd 234_Project_1_complex_gate/
+#1665324954
+clear
+#1665324959
+cd ../../
+#1665324960
+ls
+#1665324966
+cd library/pri
+#1665324973
+cd library/Print/
+#1665324974
+ls
+#1665324993
+mkdir -p 234_Project_1_Complex_gate
+#1665324996
+cd ../
+#1665324997
+ls
+#1665325001
+clear
+#1665325005
+virtuoso&
+#1665332614
+clear
+#1665332615
+ls
+#1665332637
+rm rf 234_Project_1_complex_gate/
+#1665332642
+clear
+#1665332642
+ls
+#1665332648
+cd Print/
+#1665332649
+LS
+#1665332650
+ls
+#1665332668
+234_Project_1_complex_function
+#1665332676
+mkdir 234_Project_1_complex_function
+#1665332685
+cd 234_Project_1_complex_function
+#1665332686
+ls
+#1665332714
+pwd
+#1665353462
+clear
+#1665353465
+cd library/
+#1665353467
+ls
+#1665353476
+cd 234_Project_complex_function/
+#1665353477
+ls
+#1665353482
+cd ../
+#1665353487
+virtuoso&
+#1665354802
+clear
+#1665354803
+ls
+#1665354819
+rm 234_Project_1_complex_gate
+#1665354833
+rm -rf  234_Project_1_complex_gate
+#1665354835
+clear
+#1665354837
+ls
+#1665387006
+cd library/
+#1665387014
+mkdir -p Function
+#1665387022
+virtuoso&
+#1665388430
+clear
+#1665388431
+ls
+#1665388434
+cd library/
+#1665388435
+ls
+#1665388447
+virtuoso&
+#1665390442
+cd Print
+#1665390443
+ls
+#1665390456
+mkdir -p Function
+#1665390460
+cd Function/
+#1665390480
+ls
+#1665390484
+pwd
+#1665424042
+clear
+#1665424047
+cd library
+#1665424050
+ls
+#1665424061
+rm -rf Neha.ps 
+#1665424071
+cd Function/
+#1665424072
+ls
+#1665424078
+cd ../
+#1665424084
+rm -rf Function/
+#1665424087
+clear
+#1665424089
+ls
+#1665424099
+virtuoso&
+#1665424194
+source cadencescript
+#1665424207
+cd ../
+#1665424209
+ls
+#1665424213
+cd library/
+#1665424216
+clear
+#1665424218
+ls
+#1665424223
+virtuoso&
+#1665439402
+clear
+#1665439431
+ls
+#1665439434
+cd library/
+#1665439436
+clear
+#1665439442
+source cadencescript 
+#1665439444
+clear
+#1665439449
+virtuoso&
+#1665451317
+cd 234_PROJECT_1_Inverter/Inverter
+#1665451319
+ls
+#1665451326
+cd symbol/
+#1665451327
+ls
+#1665454144
+clear
+#1665454144
+ls
+#1665454148
+cd ../../../
+#1665454149
+ls
+#1665454153
+cd Print/
+#1665454154
+ls
+#1665454164
+cd 234_Project_1_INVERTER/
+#1665454167
+clear
+#1665454168
+ls
+#1665454173
+pwd
+#1665454646
+clear
+#1665454665
+exit
+#1665462597
+cd library/
+#1665462605
+source cadencescript 
+#1665462608
+virtuoso
+#1665515544
+cd library/
+#1665515551
+source cadencescript 
+#1665515553
+clear
+#1665515557
+virtuoso&
+#1665520963
+ls
+#1665520967
+cd Print/
+#1665520970
+clear
+#1665520971
+l
+#1665520973
+ls
+#1665520982
+cd 234_Project_1_INVERTER/
+#1665520984
+clear
+#1665520985
+ls
+#1665525799
+clear
+#1665525800
+ls
+#1665525808
+rm -rf panic.log.ecs-pa-hawking.ecs.csus.edu.*
+#1665525810
+clear
+#1665525811
+ls
+#1665525817
+cd simulation/
+#1665525819
+ls
+#1665525826
+cd ../
+#1665525827
+ls
+#1665525829
+cd library/
+#1665525830
+ls
+#1665527405
+clear
+#1665539474
+cd library/
+#1665539480
+virtuoso&
+#1665607602
+cd library/
+#1665607609
+virtuoso&
+#1665620926
+source cadencescript
+#1665620930
+virtuoso&
+#1665620945
+cd ../
+#1665620946
+ls
+#1665620955
+rm -rf CDS.log*
+#1665620956
+LS
+#1665620957
+ls
+#1665620972
+cd library/
+#1665620978
+virtuoso&
+#1665621007
+clear
+#1665621009
+virtuoso&
+#1665638204
+cd library/
+#1665638208
+source cadencescript 
+#1665638210
+clear
+#1665638211
+ls
+#1665638218
+virtuoso&
+#1665638267
+clear
+#1665638272
+final_print
+#1665638278
+mkdir final_print
+#1665638281
+clear
+#1665638288
+cd final_print/
+#1665638290
+clear
+#1665638295
+mkdir Inverter
+#1665638297
+ls
+#1665638299
+cd Inverter/
+#1665638300
+LS
+#1665638302
+ls
+#1665638303
+clear
+#1665638391
+pwd
+#1665643108
+ls
+#1665643110
+cd ../
+#1665643111
+ls
+#1665643119
+exit
+#1665646838
+cd library/
+#1665646886
+source cadencescript 
+#1665646892
+virtuoso&
+#1665648190
+cd final_print/
+#1665648192
+clear
+#1665648193
+ls
+#1665648198
+mkdir nor
+#1665648203
+rm nand
+#1665648208
+ls
+#1665648230
+cd nor
+#1665648232
+pwd
+#1665643175
+ls
+#1665643181
+cd library/
+#1665643188
+source cadencescript 
+#1665643194
+virtuoso&
+#1665643222
+cd final_print/
+#1665643225
+ls
+#1665643233
+mkdir nand
+#1665643237
+cd nand/
+#1665643238
+ls
+#1665643263
+pwd
+#1665643338
+ls
+#1665643341
+clear
+#1665679427
+cd library/
+#1665679434
+source cadencescript 
+#1665679438
+virtuoso&
+#1665679504
+cd final_print/
+#1665679511
+mkdir -p nor
+#1665679513
+cd nor
+#1665679514
+pwd
+#1665730413
+cd library/
+#1665730418
+source cadencescript 
+#1665730422
+virtuoso&
+#1665730467
+ls
+#1665798022
+clear
+#1665798025
+cd library/
+#1665798028
+source cadencescript 
+#1665798030
+clear
+#1665798036
+virtuoso&
+#1665809794
+clear
+#1665809794
+ls
+#1665809797
+cd library/
+#1665809804
+source cadencescript 
+#1665809806
+ls
+#1665809816
+virtuoso&
+#1665812329
+clear
+#1665812330
+ls
+#1665812332
+cd final_print/
+#1665812343
+mkdir -p Complex_function
+#1665812345
+clear
+#1665812394
+LS
+#1665812395
+ls
+#1665812405
+cd Complex_function/
+#1665812406
+LS
+#1665812407
+ls
+#1665812411
+clear
+#1665814670
+ls
+#1665814680
+pwd
+#1665816452
+cd ..
+#1665816453
+ls
+#1665816456
+cd nor
+#1665816458
+ls
+#1665821048
+clear
+#1665821049
+ls
+#1665821052
+cd ../
+#1665821054
+ls
+#1665821061
+mkdir xor
+#1665826294
+exit
+#1665870799
+pwd
+#1665870809
+cd library/
+#1665870810
+ls
+#1665870816
+source cadencescript 
+#1665870821
+virtuoso&
+#1665870828
+clear
+#1665870848
+cd final_print/
+#1665870849
+ls
+#1665870856
+cd xor/
+#1665879531
+cd /home/student/nehagour/simulation/XOR_tb/spectre/schematic/psf
+#1665879533
+ls
+#1665879536
+cd ../
+#1665879537
+ls
+#1665879539
+cd ../
+#1665879541
+ls
+#1665879543
+cd ../
+#1665879544
+ls
+#1665879547
+cd ../
+#1665879548
+ls
+#1665879576
+rm -rf XOR_Testbench/
+#1665879577
+ls
+#1665879589
+rm -rf XOR_tb/
+#1665879598
+rm -rf XOR__Testbench/
+#1665879600
+clear
+#1665879615
+ls
+#1665879623
+rm -rf XOR_gate/
+#1665879625
+CLEAR
+#1665879628
+clear
+#1665882585
+pwd
+#1665882589
+cd ../
+#1665882592
+ls
+#1665882597
+cd library
+#1665882600
+cd ../
+#1665882601
+ls
+#1665882607
+rm -rf panic.log.ecs-pa-hawking.ecs.csus.edu.*
+#1665882608
+ls
+#1665882613
+cd library/
+#1665882615
+ls
+#1665882635
+virtuoso&
+#1665887317
+pwd
+#1665887320
+cd final_print/
+#1665887322
+cd xor/
+#1665887323
+pwd
+#1665888302
+clear
+#1665888303
+ls
+#1665888307
+cd ../../
+#1665888308
+ls
+#1665888319
+source cadencescript
+#1665888321
+clear
+#1665888324
+ls
+#1665888333
+virtuoso&
+#1665905989
+pwd
+#1665905994
+cd final_print/xor/
+#1665905995
+pwd
+#1666998836
+virtuoso&
+#1666998926
+cd library/
+#1666998932
+virtuoso&
+#1667602924
+clear
+#1667602926
+ls
+#1667602930
+cd library/
+#1667602931
+ls
+#1667602938
+source cadencescript 
+#1667602939
+clear
+#1667602944
+virtuoso&
+#1667618720
+cd library/
+#1667618722
+clear
+#1667618725
+ls
+#1667618729
+virtuoso&
+#1667623275
+cd library/
+#1667623284
+clear
+#1667623288
+virtuoso&
+#1667626381
+cd library/vi
+#1667626385
+cd library/
+#1667626394
+virtuoso&
+#1667626440
+cd 234_Project_1_NAND_gate/
+#1667626447
+clear
+#1667626452
+ls -a
+#1667626458
+ls -l
+#1667626474
+chmod +x NAND_gate/
+#1667626477
+ll
+#1667626487
+chmod +x 755 NAND_gate/
+#1667626522
+chmod +x 777 NAND_gate/
+#1667626530
+clear
+#1667626531
+ls
+#1667626534
+cd ../
+#1667626535
+ls
+#1667626549
+cd 234_Project_1_NAND_gate/
+#1667626551
+ll
+#1667626654
+chmod 777 NAND_gate
+#1667626656
+LL
+#1667626658
+ll
+#1667626662
+pwd
+#1667626714
+clear
+#1667626714
+ls
+#1667626720
+cd NAND_gate/
+#1667626721
+ls
+#1667626724
+cd schematic/
+#1667626725
+ls
+#1667626734
+cd ../../../
+#1667626735
+ls
+#1667626777
+clear
+#1667626792
+/home/student/nehagour/library/234_Project_1_NAND_gate/NAND_gate/schematic/
+#1667626800
+cd /home/student/nehagour/library/234_Project_1_NAND_gate/NAND_gate/schematic/
+#1667626802
+clear
+#1667626803
+ls
+#1667626904
+virtuoso data.dm
+#1667712970
+cd L
+#1667712977
+pwd
+#1667712980
+ls
+#1667712982
+cd library/
+#1667712984
+clear
+#1667712987
+virtuoso&
+#1667713815
+cd /opt/pdk/gpdk045_v_6_0/models/spectre/
+#1667713817
+ls
+#1667713843
+gvim gpdk045.scs
+#1667713852
+vim gpdk045.scs
+#1667713889
+vim gpdk045_moscap.scs
+#1667715097
+vim gpdk045_mos.scs
+#1667781838
+clear
+#1667781839
+ls
+#1667781847
+rm -rf CDS.log*
+#1667781849
+clear
+#1667781850
+ls
+#1667781855
+clear
+#1667781858
+cd library/
+#1667781859
+ls
+#1667781864
+clear
+#1667781885
+234_Project_2
+#1667781891
+mkdir  -p 234_Project_2
+#1667781901
+cd 234_Project_2/
+#1667781904
+clear
+#1667781913
+virtuoso&
+#1667781955
+cd ../
+#1667781957
+ls
+#1667781971
+rm -rf 234_Project_2/
+#1667781973
+clear
+#1667781975
+ls
+#1667781980
+virtuoso&
+#1667791205
+cd library/
+#1667791207
+clear
+#1667791213
+virtuoso&
+#1667847355
+clear
+#1667847360
+cd library/
+#1667847362
+ls
+#1667847393
+clear
+#1667847401
+virtuoso&
+#1667849376
+pwd
+#1667849389
+mkdir -p 234_Project_2
+#1667849391
+cd Print/
+#1667849394
+cd ../
+#1667849406
+cd 234_Project_2/
+#1667849409
+clear
+#1667849410
+ls
+#1667849424
+cd Clock_input/
+#1667849426
+ls
+#1667849430
+pwd
+#1667849466
+ls
+#1667851853
+cd library/
+#1667851855
+clear
+#1667851856
+ls
+#1667851858
+clear
+#1667851860
+ls
+#1667851861
+clear
+#1667851867
+virtuoso&
+#1667858680
+cd library/
+#1667858683
+clear
+#1667858684
+ls
+#1667858691
+virtuoso&
+#1667883025
+cd library/
+#1667883026
+ls
+#1667883031
+virtuoso&
+#1667883033
+clear
+#1667883034
+ls
+#1667890966
+cd library/
+#1667890970
+virtuoso&
+#1667928522
+cd library/
+#1667928538
+virtuoso&
+#1667928568
+lear
+#1667928570
+clear
+#1667938312
+cd library/
+#1667938313
+clear
+#1667938318
+virtuoos&
+#1667938327
+virtuoso&
+#1667946298
+cd 234_Project_2/
+#1667946300
+clear
+#1667946300
+ls
+#1667946311
+cd Gate/
+#1667946313
+clear
+#1667946313
+ls
+#1667946317
+pwd
+#1667946374
+ls
+#1667964097
+cd library/
+#1667964098
+clear
+#1667964099
+ls
+#1667964103
+clear
+#1667964107
+virtuoso&
+#1667977007
+cd library/
+#1667977009
+clear
+#1667977012
+ls
+#1667977016
+virtuoso&
+#1667977274
+cd /opt/cadence/
+#1667977276
+clear
+#1667977277
+ls
+#1667977298
+grep -ir "moscap"
+#1667977335
+gvim SPECTRE201/tools.lnx86/spectre/etc/ade/configSpectre.2.xml
+#1667977340
+vim SPECTRE201/tools.lnx86/spectre/etc/ade/configSpectre.2.xml
+#1667977369
+clear
+#1667977375
+cd ../
+#1667977386
+grep -ir "tox_n"
+#1667977394
+cd cadence/
+#1667977396
+ls
+#1667977399
+grep -ir "tox_n"
+#1667977404
+grep -ir "tox_"
+#1667977429
+cd SPECTRE201/
+#1667977430
+ls
+#1667977437
+cd data/
+#1667977438
+ls
+#1667977453
+cd ../
+#1667977454
+ls
+#1667977459
+cd bin/
+#1667977460
+ls
+#1667977481
+cd cds_comBERTcmd
+#1667977491
+vim cds_comBERTcmd
+#1667977521
+clear
+#1667977533
+grep -r "cap"
+#1667977536
+cd ../
+#1667977538
+grep -r "cap"
+#1667977594
+clear
+#1667977608
+grep -ir "capacitance"
+#1667977665
+clear
+#1667977666
+ls
+#1667977668
+cd doc
+#1667977669
+ls
+#1667977692
+grep -ir "capacitance"
+#1667977739
+clear
+#1667977740
+ls
+#1667977743
+cd ../
+#1667977747
+ls
+#1667977972
+cd /home/student/
+#1667977973
+ls
+#1667977992
+cd nehagour/
+#1667977994
+clear
+#1667977994
+ls
+#1667977999
+cd library/
+#1667978000
+ls
+#1667980014
+clear
+#1667980405
+ls
+#1667980436
+clear
+#1667980438
+ls
+#1667980447
+clear
+#1667980458
+virtuoso&
+#1667980501
+clear
+#1667980507
+ls
+#1667980537
+clear
+#1667980542
+ls
+#1667980548
+clear
+#1667980553
+virtuoso&
+#1667981043
+ls
+#1667981046
+clear
+#1667990788
+pwd
+#1667990807
+cd 234_Project_2/Gate/
+#1667990808
+ls
+#1667990813
+rm -rf gate.ps 
+#1667990815
+pwd
+#1667990873
+ls
+#1667990977
+cd ../../.././
+#1667990980
+cd ../../
+#1667990981
+ls
+#1667990985
+pwd
+#1667990990
+cd student/
+#1667990991
+ls
+#1667990994
+cd nehagour/
+#1667990995
+ls
+#1667990997
+clear
+#1667990999
+ls
+#1667991009
+rm -rf CDS.log*
+#1667991142
+cd library/
+#1667991143
+ls
+#1667991152
+cd 234_Project_2/
+#1667991155
+clear
+#1667991155
+ls
+#1667991163
+cd Gate/
+#1667991165
+ls
+#1667991179
+pdf gate.ps 
+#1668024113
+clear
+#1668024114
+ls
+#1668024117
+cd library/
+#1668024122
+virtuoso&
+#1668026657
+clear
+#1668026661
+ls
+#1668026668
+pwd
+#1668026789
+cd ls
+#1668026792
+ls
+#1668026796
+clear
+#1668033820
+pcd ../
+#1668033822
+cd ../
+#1668033823
+ls
+#1668033829
+cd library/
+#1668033844
+mkdir Project_2_print
+#1668033852
+cd Project_2_print/
+#1668033854
+ls
+#1668038551
+clear
+#1668038551
+ls
+#1668038554
+cd library/
+#1668038555
+ls
+#1668038561
+virtuoso&
+#1668039451
+clear
+#1668039452
+ls
+#1668039464
+ls Project_2_print/
+#1668039466
+clear
+#1668039467
+ls
+#1668039482
+cd Project_2_print/
+#1668039485
+clear
+#1668039486
+ls
+#1668039540
+pwd
+#1668040341
+ls
+#1668040623
+pwd
+#1668040644
+ls
+#1668040656
+clear
+#1668040662
+ll
+#1668040671
+chmod 777 *
+#1668040672
+ll
+#1668040677
+cd ../
+#1668040692
+chmod 777 Project_2_print/
+#1668040700
+ll Project_2_print/
+#1668040849
+clear
+#1668040852
+cd ../
+#1668040855
+pwd
+#1668040859
+cd library/
+#1668040864
+clear
+#1668040868
+ls
+#1668040874
+cd Project_2_print/
+#1668040876
+clear
+#1668040878
+ls
+#1668041014
+clear
+#1668041015
+ls
+#1668041017
+cd library/
+#1668041018
+ls
+#1668041034
+cd  Project_2_print/
+#1668041036
+ls
+#1668042360
+virtuoso&
+#1668042420
+cd library/
+#1668042426
+pwd
+#1668042524
+clear
+#1668042528
+virtuoso&
+#1668112587
+clear
+#1668112589
+ls
+#1668112593
+rm -rf panic.log.ecs-pa-hawking.ecs.csus.edu.
+#1668112597
+clear
+#1668112598
+ls
+#1668112624
+rm -rf panic.log.ecs-pa-hawking.ecs.csus.edu.*
+#1668112627
+clear
+#1668112627
+ls
+#1668112634
+rm -rf CDS.log lib
+#1668112642
+rm -rf CDS.log libManager.log 
+#1668112645
+clear
+#1668112645
+ls
+#1668112647
+cd library/
+#1668112650
+clear
+#1668112651
+ls
+#1668112665
+virtuoso&
+#1668112709
+clear
+#1668113252
+ls
+#1668113258
+cd Project_2_print/
+#1668113259
+ls
+#1668113262
+pwd
+#1668113292
+clear
+#1668121154
+ls
+#1668121157
+cd library/
+#1668121164
+virtuoso&
+#1668146726
+cd library/
+#1668146728
+clear
+#1668146777
+pwd
+#1668146785
+clear
+#1668146793
+virtuoso&
+#1668219175
+clear
+#1668219179
+cd library/
+#1668219184
+virtuoso&
+#1668232296
+clear
+#1668232297
+ls
+#1668232300
+cd library/
+#1668232302
+clear
+#1668232314
+virtuoso&
+#1668233717
+/home/
+#1668233725
+pwd
+#1668235236
+cd Project_2_print/
+#1668235238
+clear
+#1668235239
+ls
+#1668235260
+pwd
+#1668238201
+clear
+#1668238202
+ls
+#1668238209
+cd ../../../../
+#1668238210
+pwd
+#1668238213
+cd -
+#1668238217
+cd ../
+#1668238221
+clear
+#1668238222
+ls
+#1668238239
+library/
+#1668238243
+pwd
+#1668238248
+virtuoso&
+#1668276919
+clear
+#1668276924
+ls
+#1668276927
+cd library/
+#1668276932
+virtuoso&
+#1668800394
+clear
+#1668800395
+ls
+#1668800401
+rm -rf panic.log.ecs-pa-hawking.ecs.csus.edu.*
+#1668800403
+clear
+#1668800403
+ls
+#1668800407
+cd library/
+#1668800409
+clear
+#1668800413
+virtuoso&
+#1668999460
+clear
+#1668999462
+ls
+#1668999465
+cd library/
+#1668999470
+virtuoso&
+#1669332459
+clear
+#1669332460
+ls
+#1669332463
+cd library/
+#1669332467
+virtuoso&
+#1669333714
+clear
+#1669333716
+pwd
+#1669333725
+cd //sacfiles/home/n
+#1669333731
+cd sacfiles/home/n
+#1669333737
+cd /home/n
+#1669334076
+pwd
+#1669338944
+clear
+#1669338944
+ls
+#1669338948
+cd library/
+#1669338949
+ls
+#1669338952
+clear
+#1669338956
+virtuoso&
+#1669493629
+clear
+#1669493629
+ls
+#1669493636
+rm -rf CDS.log*
+#1669493645
+rm -rf panic.log.ecs-pa-hawking.ecs.csus.edu.*
+#1669493647
+clear
+#1669493648
+ls
+#1669493650
+cd library/
+#1669493652
+clear
+#1669493655
+virtuoso&
+#1669497741
+clear
+#1669497754
+pwd
+#1669497759
+virtuoso&
+#1669498422
+pwd
+#1669532464
+clear
+#1669532465
+ls
+#1669532471
+virtuoso&
+#1669671194
+clear
+#1669671196
+ls
+#1669671198
+cd library/
+#1669671200
+clear
+#1669671200
+ls
+#1669671206
+virtuoso&
+#1669686351
+clear
+#1669686352
+ls
+#1669686356
+cd library/
+#1669686357
+ls
+#1669686372
+clear
+#1669686424
+virtuoso&
+#1669702356
+clear
+#1669702357
+ls
+#1669702360
+cd library/
+#1669702364
+clear
+#1669702366
+ls
+#1669702378
+virtuoso&
+#1669795718
+clear
+#1669795718
+ls
+#1669795743
+cd library/
+#1669795745
+clear
+#1669795746
+ls
+#1669795772
+virtuoso&
+#1669844993
+clear
+#1669844996
+ls
+#1669845004
+rm -rf panic.log.ecs-pa-hawking.ecs.csus.edu.1*
+#1669845006
+clear
+#1669845007
+ls
+#1669845009
+cd library/
+#1669845010
+clear
+#1669845016
+virtuoso&
+#1669845380
+ls
+#1669845382
+pwd
+#1669854334
+clear
+#1669854335
+ls
+#1669854338
+cd library/
+#1669854339
+ls
+#1669854346
+clear
+#1669854347
+ls
+#1669854352
+virtuoso&
+#1669868543
+clear
+#1669868544
+ls
+#1669868546
+cd library/
+#1669868547
+ls
+#1669868556
+virtuoso&
+#1669868620
+clear
+#1669868620
+ls
+#1669868622
+pwd
+#1669868669
+clear
+#1669868712
+pwd
+#1669868988
+cd library/
+#1669868992
+virtuoso&
+#1669869100
+clear
+#1669869184
+pwd
+#1669869228
+cd Project_2_print/
+#1669869230
+clear
+#1669869230
+ls

@@ -1,0 +1,11 @@
+Generic 300 dpi Adobe PostScript Level 2 Plotter|Generic 300 dpi Adobe PostScript Level 2 Plotter: \
+	:manufacturer=Adobe: \
+	:type=postscript2: \
+	:spool="lp -dcds": \
+	:query=lpstat -ocds: \
+	:remove=cancel $1 cds: \
+	:resolution#300: \
+	:maximumPages#30: \
+	:paperSize="A" 2405 3165 86 66: \
+	:paperSize="B" 3165 4953 66 86:
+
