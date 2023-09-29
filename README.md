@@ -1,5 +1,5 @@
 # Digital_Vending_Machine
-Objective : Designing simulating and laying upp a Digital Controller Circuit for a Vending Machine in 45nm CMOS.
+Objective : Designing simulating and laying up a Digital Controller Circuit for a Vending Machine in 45nm CMOS.
 
 ## Software Used
 [Cadence Virtuoso](https://ee.usc.edu/~redekopp/ee209/virtuoso/setup/USCVLSI-VirtuosoTutorial.pdf)
